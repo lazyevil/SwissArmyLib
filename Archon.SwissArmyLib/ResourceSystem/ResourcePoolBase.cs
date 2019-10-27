@@ -33,7 +33,7 @@ namespace Archon.SwissArmyLib.ResourceSystem
         public abstract bool IsEmpty { get; }
 
         /// <summary>
-        /// Gets whether the pool is completely empty.
+        /// Gets whether the pool is completely full.
         /// </summary>
         public abstract bool IsFull { get; }
 
